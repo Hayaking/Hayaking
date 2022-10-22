@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-333333?style=flat&logo=Clickhouse)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=ApacheKafka)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
